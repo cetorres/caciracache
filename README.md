@@ -33,5 +33,6 @@ let obj2 = CACache.getObject(fromKey: "myObject", withMaxCacheAge: 2*60*60) // 2
 
 Feel free to get in touch.
 
-* Website: <http://cacira.com> <http://cetorres.com>
+* Website: <http://cetorres.com>
+* My company (Cacira): <http://cacira.com>
 * Twitter: [@cetorres](http://twitter.com/cetorres)
